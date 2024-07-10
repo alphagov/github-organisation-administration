@@ -24,7 +24,7 @@ execnet==1.7.1
 filelock==3.0.12
 flake8==3.8.4
 identify==1.5.10
-idna==2.10
+idna==3.7
 imagesize==1.2.0
 iniconfig==1.1.1
 ipykernel==5.4.2
